@@ -20,7 +20,7 @@ const Resume = () => {
             </a>
           </p>
         </div>
-        <div className=" flex flex-col w-1/2 mr-3 justify-center items-center">
+        <div className=" flex flex-col w-full md:w-1/2 mr-3 justify-center items-center">
           <img
             className="rounded-2xl md:rounded-xl size-64 md:size-96"
             src={file}

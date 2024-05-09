@@ -52,7 +52,7 @@ const Projects = () => {
               </div>
             </div>
             <div className=" col-start-5 col-span-3 row-span-2 row-start-2 md:block md:my-3 md:w-64 flex justify-self-end items-center w-1/2 ">
-              <h3 className=" text-lg font-slide1-font first-letter:text-xl md:first-letter:text-4xl first-letter:text-sky-500 first-line:text-orange-500">
+              <h3 className=" text-lg font-slide1-font first-letter:text-2xl md:first-letter:text-4xl first-letter:text-sky-500 first-line:text-orange-500">
                 Galary Portfolio
               </h3>
             </div>
@@ -72,13 +72,13 @@ const Projects = () => {
                 </p>
               </div>
             </div>
-            <div className="col-start-2 col-span-4 row-span-2 row-start-2 md:block md:my-3 md:w-64 flex justify-start items-center ">
-              <h3 className=" text-xl text-center font-slide1-font first-letter:text-lg md:first-letter:text-4xl first-letter:text-sky-200 first-line:text-orange-500">
+            <div className="col-start-2 col-span-4 row-span-2 row-start-2 md:block md:my-3 md:w-64 flex justify-start items-center mr-5 w-full">
+              <h3 className=" text-xl text-center font-slide1-font first-letter:text-2xl md:first-letter:text-4xl first-letter:text-sky-200 first-line:text-black">
                 Restaurant
               </h3>
             </div>
           </div>
-          <div className="grid justify-between items-center md:flex-col col-start-2 row-start-6 col-span-5 row-span-2 md:w-1/3 ">
+          <div className="flex justify-between items-center md:flex-col col-start-2 row-start-6 col-span-5 row-span-2 md:w-1/3 ">
             <div className="relative w-full flex justify-self-start md:justify-center items-center ">
               <img
                 className="ring-4 ring-offset-8 ring-red-600  rounded-xl size-24 md:size-72 cursor-pointer 
@@ -93,8 +93,8 @@ const Projects = () => {
                 </p>
               </div>
             </div>
-            <div className=" col-start-5 col-span-3 row-span-2 row-start-1 md:block md:my-3 md:w-64 flex justify-center items-center w-1/2 ">
-              <h3 className=" text-lg font-slide1-font first-letter:text-xl md:first-letter:text-4xl first-letter:text-sky-500 first-line:text-orange-500">
+            <div className=" col-start-6 col-span-3 row-span-2 row-start-1 md:block md:my-3 md:w-64 flex justify-center items-center w-full ml-2 ">
+              <h3 className=" text-lg text-right md:text-right font-slide1-font first-letter:text-2xl md:first-letter:text-4xl first-letter:text-sky-500 first-line:text-black">
                 E-commerce
               </h3>
             </div>
